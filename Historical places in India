@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Places In India</title>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" >
+<style> 
+h2{
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-image: linear-gradient(90deg,orange,white,greenyellow);
+    color: navy;
+    text-align: center;
+    position:fixed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+h3{
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    background-image: linear-gradient(90deg, orange,white,greenyellow);
+    color: navy;
+    text-align: center;
+    position:sticky;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+body{
+ 
+  background-image: linear-gradient(90deg,purple,white,purple);
+ 
+}
+</style>
+
+</head>
+<body>
+    <!-- Header -->
+    <div class="card">
+        <div class="card-header">
+            <h2>Historical Places in India</h2>
+        </div>
+       
+      </div><br><br>
+   
+    <!-- grid -->
+    <div class="container text-center">
+        <div class="row row-cols-3">
+          <div class="col">
+            <h1> Taj Mahal</h1>
+           <img src="https://images.pexels.com/photos/3881104/pexels-photo-3881104.jpeg?auto=compress&cs=tinysrgb&w=600" width="500px" height="500px"  alt=""><br>
+           <a href="https://en.wikipedia.org/wiki/Taj_Mahal" target="blank">Know more</a>
+          </div><br>
+           <!-- Humayun's Tomb -->
+          <div class="col">
+            <h1>Humayun's Tomb</h1>
+            <img src="https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&w=600"width="500px" height="500px" alt=""><br>
+            <a href="https://en.wikipedia.org/wiki/Humayun%27s_Tomb" target="_blank">Know more</a>
+           </div><br><br>
+         <!-- Red Fort -->
+          <div class="col">
+           
+            <h1>Red Fort</h1>
+            <img src="https://media.istockphoto.com/photos/agra-fort-medieval-indian-fort-at-agra-india-at-sunrise-picture-id1169495248?b=1&k=20&m=1169495248&s=612x612&w=0&h=ROHh0-W8h-e-Tj40cjX625JQowlLT6Tubopbp9l5-7w=" width="500px" height="500px"alt=""><br>
+            <a href="https://en.wikipedia.org/wiki/Red_Fort" target="_blank">Know more</a>
+           </div><br>
+           <!-- Qutub Minar -->
+           <div class="col">
+            <h1>Qutub Minar</h1>
+            <img src="https://images.pexels.com/photos/13385089/pexels-photo-13385089.jpeg?auto=compress&cs=tinysrgb&w=600" width="500px" height="500px" alt=""><br>
+            <a href="https://en.wikipedia.org/wiki/Qutb_Minar" target="_blank">Know more</a>
+            </div>
+            <!-- Hawa Mahal -->
+            <div class="col">
+                <h1> Hawa Mahal</h1>
+               <img src="https://images.pexels.com/photos/9902399/pexels-photo-9902399.jpeg?auto=compress&cs=tinysrgb&w=400" width="500px" height="500px"  alt=""><br>
+               <a href="https://en.wikipedia.org/wiki/Hawa_Mahal" target="blank">Know more</a>
+              </div><br>
+               <!-- India Gate -->
+              <div class="col">
+                <h1>India Gate</h1>
+                <img src="https://images.pexels.com/photos/13819269/pexels-photo-13819269.jpeg?auto=compress&cs=tinysrgb&w=400"width="500px" height="500px" alt=""><br>
+                <a href="https://en.wikipedia.org/wiki/India_Gate" target="_blank">Know more</a>
+               </div><br><br>
+             <!-- Mysore Palace -->
+              <div class="col">
+               
+                <h1>Mysore Palace</h1>
+                <img src="https://images.pexels.com/photos/5480518/pexels-photo-5480518.jpeg?auto=compress&cs=tinysrgb&w=400" width="500px" height="500px"alt=""><br>
+                <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwignqLgnP76AhWI4XMBHeCbC1QQFnoECBAQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMysore_Palace&usg=AOvVaw2epVBXMet2zJ6TEYnJ9TxS" target="_blank">Know more</a>
+               </div><br>
+               <!-- Gol Gumbaz -->
+               <div class="col">
+                <h1>Gol Gumbaz</h1>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gol_Gumbaj2.JPG/330px-Gol_Gumbaj2.JPG" width="500px" height="500px" alt=""><br>
+                <a href="https://en.wikipedia.org/wiki/Gol_Gumbaz" target="_blank">Know more</a>
+                </div>
+                 <!-- Charminar -->
+               <div class="col">
+                <h1>Charminar</h1>
+                <img src="https://images.pexels.com/photos/5491756/pexels-photo-5491756.jpeg?auto=compress&cs=tinysrgb&w=400" width="500px" height="500px" alt=""><br>
+                <a href="https://en.wikipedia.org/wiki/Charminar" target="_blank">Know more</a>
+                </div>
+        </div>
+    </div><br><br><br><br>
+    <!-- Footer -->
+     <h3>Thank You <audio src="https://ia800304.us.archive.org/15/items/jana-gana-mana/jana_gana_mana.mp3" controls></audio></h3>
+    
+</body>
+</html>
