@@ -106,9 +106,10 @@ body{
                 <a href="https://en.wikipedia.org/wiki/Charminar" target="_blank">Know more</a>
                 </div>
         </div>
-    </div><br><br><br><br>
+    </div><br><br><br><br><BR></BR>
     <!-- Footer -->
-     <h3>Thank You <audio src="https://ia800304.us.archive.org/15/items/jana-gana-mana/jana_gana_mana.mp3" controls></audio></h3>
+     <h3> <audio src="https://ia800304.us.archive.org/15/items/jana-gana-mana/jana_gana_mana.mp3" controls></audio> Thank You <br>
+     DESIGNED & DEVELOPED BY :Allwina Anna Soy Jose</h3>
     
 </body>
 </html>
